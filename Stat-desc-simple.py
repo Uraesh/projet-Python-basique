@@ -86,7 +86,7 @@ def afficher_stats(stats):
     print("="*50 + "\n")
 
 # Exemple d'utilisation
-if __name__ == "__main__":
+if __name__ == "__main__" :
     # Exemple 1 : Notes d'étudiants
     print("Exemple 1 : Notes d'étudiants (sur 20)")
     notes = [12, 15, 14, 16, 13, 11, 18, 15, 14, 17, 13, 16]
