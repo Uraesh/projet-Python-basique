@@ -64,7 +64,7 @@ def visualiser_donnees(nums):
     """
     Crée des visualisations graphiques des données.
     
-    Args:
+    Args: 
         nums (list): Liste de nombres
     """
     # Création d'une figure avec plusieurs sous-graphiques
