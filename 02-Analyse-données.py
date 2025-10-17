@@ -9,7 +9,7 @@ import pandas as pd
 
 df = pd.read_csv("MOCK_DATA.csv")
 
-#df.head(), affiche les 5 premières entrée du début du tableau.
+#df.head(), affiche les 5 premières entrée du début du tableau .
 
 #df.tail(), afficher les 5 derniers éléments du tableau.
 
