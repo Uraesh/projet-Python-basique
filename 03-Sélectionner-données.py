@@ -13,7 +13,7 @@ df = pd.read_csv("MOCK_DATA.csv")
 
 #df[10:20] affiche les elements comprise entre 10 et 20 sans afficher l'index 20
 
-#df.loc[10:14] affiche les elements comprise entre 10 et 14 y compris 14
+#df.loc[10:14] affiche les elements comprise entre 10 et 14 y compris 14 
 
 
  
