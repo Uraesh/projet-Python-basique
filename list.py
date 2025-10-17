@@ -7,5 +7,5 @@ Created on Mon Oct 13 08:18:55 2025
 
 my_list = [20 ,34, 24 ,58]
 
-notes = sum(my_list)
+notes = sum(my_list )
 print(f" la somme est: {notes} ")
