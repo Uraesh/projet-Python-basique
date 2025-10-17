@@ -15,4 +15,4 @@ mots = texte.split()
 nombre_de_mots = len(mots)
 
 # Afficher le résultat
-print("Nombre de mots dans le texte :", nombre_de_mots)
+print("Nombre de mots dans le texte:", nombre_de_mots)
